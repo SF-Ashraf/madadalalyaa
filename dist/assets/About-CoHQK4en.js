@@ -1,0 +1,1 @@
+import{O as e}from"./index-BIkYM96m.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`h1`,{className:`text-3xl font-bold mb-4 text-[#289D61]`,children:`من نحن`}),(0,t.jsx)(`p`,{children:`معلومات عن منصة مداد العلياء`})]});export{n as default};
